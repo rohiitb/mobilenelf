@@ -88,7 +88,7 @@ This code expects a `ckpt.tar` from the trained student model,
 It prunes the entire model by a set amount and we can change this amount.
 It also makes the pruning permanent and saved the pruned model as `ckpt_pruned.tar`
 
-Go through the simple code of pruning and run `python3 pruning.py` accordinlgy.
+Go through the sample code of pruning and run `python3 pruning.py` accordingly.
 
 Once we get the pruned model, we want to finetune it and thus we again resort to training the student model script.
 

@@ -1,18 +1,12 @@
 # Real-Time Neural Light Field on Mobile Devices
 
-# Demo Video of our implementation
-
 <img src=images/nelf.gif height="300" width="300" > <p></p>
 
 This is a screen recording from the iPad.  
 The bulldozer is a Snapchat Nerf object inferencing real time as we change the pose of the iPad camera.
 
-
 This work is an extension of the following work named `MobileR2L`
 ### [Project](https://snap-research.github.io/MobileR2L/) | [ArXiv](https://arxiv.org/abs/2212.08057) | [PDF](https://arxiv.org/pdf/2212.08057.pdf) 
-
-
-
 
 
 # Abstract
@@ -124,6 +118,7 @@ We did this 3 times in iteration and have reported our result in the report.
 
 
 # Reference
+Huge Thank you to [Swapneel](https://github.com/swagholikar29) for helping me through the project.
 
 Huge Thank you to 
 ```BibTeX

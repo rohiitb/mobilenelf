@@ -2,7 +2,7 @@
 
 # Demo Video of our implementation
 
-https://github.com/shounaknaik/MobileNeRF/assets/55713396/b8d1ddcc-da64-47d1-91a1-9dc0f06a2a2e
+<img src=images/nelf.gif height="300" width="300" > <p></p>
 
 This is a screen recording from the iPad.  
 The bulldozer is a Snapchat Nerf object inferencing real time as we change the pose of the iPad camera.
